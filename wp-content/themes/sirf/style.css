@@ -1,0 +1,27 @@
+/*
+Theme Name:     Southern Investigative Reporting Foundation
+Theme URI:      http://largoproject.org
+Description:    A child theme for the Southern Investigative Reporting Foundation based on the Project Largo parent theme.
+Author:         The INN Nerds
+Author URI:     http://nerds.inn.org
+Template:       largo-dev
+Version:        0.2
+*/
+
+.module.aside.half {
+	width: 40%;
+	background-color: #eee;
+	padding: 16px;
+	border: 1px solid #999;
+}
+@media (min-width: 769px) and (max-width: 979px) {
+  #content .module.aside.half {
+    width: 50%;
+  }
+}
+@media (max-width: 768px) {
+  #content .module.aside.half {
+    padding: 2.5%;
+    width: 95%;
+  }
+}
