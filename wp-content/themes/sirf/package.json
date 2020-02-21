@@ -1,7 +1,7 @@
 {
   "name": "sirf-theme",
   "version": "1.0.0",
-  "description": "Theme for sirf-onlien.org",
+  "description": "Theme for sirf-online.org",
   "repository": {
     "type": "git",
     "url": "https://github.com/INN/umbrella-sirf.git"
