@@ -1,3 +1,7 @@
+## Why is the child theme directory named `sirf`?
+
+This site was originally named SIRF (Southern Investigative Reporting Foundation), but has since been changed to FFJ (The Foundation for Financial Journalism). All user facing names for the child theme have been updated to `FFJ`, but changing the actual child theme directory name would cause issues detailed here: https://github.com/INN/umbrella-ffj/issues/12#issuecomment-600193502
+
 ## Setup instructions
 
 This repository is designed to be set up in accordance with the VVV install instructions in INN/docs, that were introduced with https://github.com/INN/docs/pull/148
